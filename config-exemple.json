@@ -1,12 +1,12 @@
 {
-  "token": "[token]",
-  "client_id": "[CLIENT ID]",
+  "token": "NTgxNTI0Mjk4NjQwOTE2NDkx.XOgguw.MMonZAsEW1wn_2daftb3pOsl1ho",
+  "client_id": "",
   "prefix": "!",
-  "owner_id": "[owner_id]",
-  "status": "[STATUS]",
-  "youtube_api_key": "[YT_API_KEY]",
+  "owner_id": "354690959272837130",
+  "status": "music",
+  "youtube_api_key": "AIzaSyDdU6mBzxgP25RJMduMBng2qfQTQBo9t2s",
   "admins": ["admin_id"],
   "configRev": "0.1.5",
-  "language" : "fr",
+  "language" : "en",
   "language_comments" : "en"
 }
